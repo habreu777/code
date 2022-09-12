@@ -4,7 +4,7 @@ sharing code with the hood
 These few scripts may help you with some of your day to day network tasks, as well as perhaps inspire you to learn
 some coding..
 
-You'll fine a few files with differet purposes:
+You'll find a few files with differet purposes:
 
 adusmanager may help with onboarding and offboarding ad users
 
