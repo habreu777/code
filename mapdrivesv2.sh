@@ -64,7 +64,7 @@ done
 #creates folder per each pf the selected disks
 echo ''
 echo 'Creating folders ...'
-for a in `seq 1 $number` ; do mkdir ~/Desktop/usb-drive/disk${a} ; done
+for a in `seq 1 $number` ; do mkdir ./usb-drive/disk${a} ; done
 
 #display the found devi ce paths and save output to a text file to be used later in code
 echo 'Listing external drives full path'
